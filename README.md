@@ -6,6 +6,15 @@
 This analysis was done to determine the effectiveness of UC Berkeley's [BJC](http://bjc.berkeley.edu/) curriculum in attracting historically underrepresented students into computer science. 
 - This works owes thanks to [Alex Bowe](http://alexbowe.com/au-naturale/).
 - The work was done as part of a doctoral study in Computer Science education. 
+-----------------------------------------------------------------------------------
+| Title    | HipHopathy, A Socio-Curricular Study of Introductory Computer Science |
+| -------- | --------------------------------------------------------------------- |
+| Author   | Omoju Miller 							                               |
+| Advisor  | [Dr. Alice Agogino][Alice] 					                       |
+| Degree   | Doctor of Philosophy, Computer Science Education 	                   |
+| Date     | Dec 2015								                               |
+------------------------------------------------------------------------------------
+[Alice]: http://www.me.berkeley.edu/people/faculty/alice-m-agogino
 
 ## Install
 

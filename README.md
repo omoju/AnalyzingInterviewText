@@ -30,7 +30,7 @@ In addition, you will need to be able to run an jupyter Notebook to do something
 
 ## Run
 
-In a terminal/command window, go to the top-level project directory `investigatingWhyURMsChooseCS/` (that contains this README). Then run:
+In a terminal/command window, go to the top-level project directory `AnalyzingInterviewText/` (that contains this README). Then run:
 
 ```jupyter notebook appropriateNotebookName.ipynb```
 

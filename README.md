@@ -17,22 +17,6 @@ This analysis was done to determine the effectiveness of UC Berkeley's [BJC](htt
 ------------------------------------------------------------------------------------
 [Alice]: http://www.me.berkeley.edu/people/faculty/alice-m-agogino
 
-## Install
-
-This project requires Python 2.7 and the following Python libraries installed:
-
-- [NLTK](http://www.nltk.org/)
-- [Pandas](http://pandas.pydata.org/)
-- [Numpy](http://www.numpy.org/)
-
-In addition, you will need to be able to run an jupyter Notebook to do something similar with your data.
-
-
-## Run
-
-In a terminal/command window, go to the top-level project directory `AnalyzingInterviewText/` (that contains this README). Then run:
-
-```jupyter notebook appropriateNotebookName.ipynb```
 
 
 ## Publication
